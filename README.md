@@ -1,0 +1,2 @@
+This project showcases my skills and projects as a UI/UX designer and photographer. Built using HTML, CSS, and JavaScript, this portfolio website is designed to highlight my creative work and professional experience. It features a responsive design to ensure optimal viewing across devices, emphasizing user-friendly navigation and aesthetic appeal. Visitors can explore my design projects, photography portfolio, and connect with me via LinkedIn for professional inquiries and networking opportunities.
+
